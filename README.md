@@ -1,8 +1,6 @@
 # MzFirstGem
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/mz_first_gem`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+MzFirstGem is a very simple example gem I created to learn how to make gems.
 
 ## Installation
 
@@ -22,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+By running the executable `mz_first_gem` you will be directed to the article I followed to create this project
 
 ## Development
 
