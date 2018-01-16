@@ -1,0 +1,1 @@
+var search_data = {"index":{"searchIndex":["mzfirstgem","setup"],"longSearchIndex":["mzfirstgem",""],"info":[["MzFirstGem","","MzFirstGem.html","",""],["setup","","setup.html","","<p>#!/usr/bin/env bash set -euo pipefail IFS=$&#39;nt&#39; set -vx\n<p>bundle install\n<p># Do any other automated …\n"]]}}
