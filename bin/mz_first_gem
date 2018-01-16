@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
 
-require 'my_first_gem_mz'
+require 'mz_first_gem'
 
 puts MzFirstGem::Url

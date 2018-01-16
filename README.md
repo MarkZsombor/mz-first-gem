@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-By running the executable `mz_first_gem` you will be directed to the article I followed to create this project
+By running the executable `ruby -I lib bin/mz_first_gem` you will be directed to the article I followed to create this project
 
 ## Development
 
